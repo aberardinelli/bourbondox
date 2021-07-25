@@ -483,8 +483,8 @@
     )
   )
 
-  (module Lily58-footprint:HOLE_M2 (layer F.Cu) (tedit 5AB4F321) (tstamp 60EB9E79)
-    (at -19.56 50.8)
+  (module Lily58-footprint:HOLE_M2 (layer F.Cu) (tedit 5AB4F321) (tstamp 60FDF7DF)
+    (at -19.75 50.75)
     (path /60EB9F1B)
     (fp_text reference H2 (at 0 -2) (layer Eco2.User) hide
       (effects (font (size 0.29972 0.29972) (thickness 0.07493)))
