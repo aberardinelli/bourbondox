@@ -12,7 +12,7 @@
 
 ### v0.1
 
-* Only had one side printed. 
+* Only had one side printed. Diodes were mistakenly put on the front of the PCB in my schematic when they should be on the back.
 * Soldered on reset button, promicro controller, and diodes.
 * Tested each switch with tweezers. 
 * All switches in columns 0, 1, 2, 3, and 4 worked as expected.
