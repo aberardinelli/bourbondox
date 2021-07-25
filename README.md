@@ -53,7 +53,7 @@
 
 ## v0.2 photo
 
-*Not plugged in*
+*Everything's soldered, but it's not plugged in*
 ![Not plugged in](images/v2_unplugged.jpg)
 
 ## v0.1 photos
