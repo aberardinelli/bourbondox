@@ -6,9 +6,11 @@
 
 `pcb_rev3` folder contains the KiCAD pcb files for v0.3 (received 2021-07-19)
 
+`pcb_rev4` folder contains the KiCAD pcb files for v0.4 (edits still in progress, started 2021-07-25)
+
 `firmware` folder contains the qmk firmware files
 
-## Description of issues
+## Changelog and documentation of issues
 
 ### v0.1
 
@@ -21,7 +23,7 @@
 ### v0.2
 
 * Had both sides printed this time. Completely redid the routing from scratch because I wasn't happy with the first version. Did all this and ordered the v0.2 prototypes before I had even received and tested v0.1.
-* Soldered reset buttons, TRRS jacks, OLED screens, promicro controllers, diodes, and switches on both sides. Soldered resistors on right side only.
+* Soldered reset buttons, TRRS jacks, OLED screens, promicro controllers, diodes, and switches on both halves. Soldered resistors on right side only.
 * Reset buttons still didn't work.  But... On each side, when plugged in alone (not connected to other half): All switches worked as expected. Both OLED screens worked as expected.
 * When the sides are connected via TRRS cable, switches and OLED screens stopped working. This led me to believe there was a problem with the routing with the TRRS jacks. I ruled out a problem with the cable since I tried two different TRRS cables, both of which worked fine with two other split keyboards.
 * Stagger on left hand felt extremely comfortable but right hand was unnatural.
@@ -35,6 +37,13 @@
     * If right half has Elite-C and it is connected via USB-C cable to the computer, no switches register and OLEDs are blank.
     * If left half has ProMicro and it is connected via micro USB cable to the computer, no switches register, but the OLEDs each show the same garbled output (first few letters are clear and correct but the rest is nonsense).
     * If NOT connected via TRRS, but each half is connected via its respective USB cable directly to the computer, then OLED screens work as expected and all switches register as expected with tweezers.
+* Stagger on left hand seems perfect; right hand might still need adjustments on pinky but seems perfect now for middle and ring fingers. 
+
+### v0.4
+
+* Changed the split communication to serial to allow OLED screens to use i2c. This required changing the routing and footprints in the schematics for the TRRS jacks.
+* Very minor adjustments made to spacing of holes for OLED covers.
+* Thumb cluster on right side was slightly off from what I want; rotated the keys on that side. Also increased the spacebar size on left side to 2u for more likely compatibility with keycap kits.
 
 
 ## v0.3 photos
