@@ -70,3 +70,10 @@
 *Promicro is flashed and soldered. Ready for testing!*
 ![Ready for testing](images/v1_flashed.jpg)
 
+# Acknowledgements
+
+Thank you to ai03 and masterzen for your extensive keyboard pcb design tutorials posted online as resources for the community.
+
+Thank you to the designers of the redox, lily58, and corne-cherry for sharing your work as open source. These were inspirational and helpful resources during my design of this keyboard.
+
+Special thanks to the Keycraft Collective discord community, especially users astra and matthewdias, for their encouragement, feedback, input, and troubleshooting.
