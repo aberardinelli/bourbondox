@@ -43,7 +43,8 @@
 
 * Changed the split communication to serial to allow OLED screens to use i2c. This required changing the routing and footprints in the schematics for the TRRS jacks.
 * Very minor adjustments made to spacing of holes for OLED covers.
-* Thumb cluster on right side was slightly off from what I want; rotated the keys on that side. Also increased the spacebar size on left side to 2u for more likely compatibility with keycap kits.
+* Thumb cluster on right side was not great for my use case; rotated the keys on that side. 
+* Increased the spacebar size on left side to 2u for more likely compatibility with keycap kits.
 
 
 ## v0.3 photos

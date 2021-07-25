@@ -22,4 +22,5 @@ BLUETOOTH_ENABLE = no       # Enable Bluetooth
 AUDIO_ENABLE = no           # Audio output
 
 
+OLED_DRIVER_ENABLE = yes    # OLED display
 SPLIT_KEYBOARD = yes
