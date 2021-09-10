@@ -1,8 +1,0 @@
-(sym_lib_table
-  (lib (name keebio)(type Legacy)(uri /home/angela/Documents/keebs/pcb_design/libraries/keebio-components/keebio.lib)(options "")(descr ""))
-  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "/home/angela/Documents/keebs/pcb_design/libraries/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
-  (lib (name random-keyboard-parts)(type Legacy)(uri "/home/angela/Documents/keebs/pcb_design/libraries/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
-  (lib (name kbd)(type Legacy)(uri /home/angela/Documents/keebs/pcb_design/libraries/kbd/kicad-symbols/kbd.lib)(options "")(descr ""))
-  (lib (name Lily58_Pro-rescue)(type Legacy)(uri /home/angela/Documents/keebs/pcb_design/Lily58/Pro/PCB/Lily58_Pro-rescue.lib)(options "")(descr ""))
-  (lib (name redox_rev1-cache)(type Legacy)(uri /home/angela/Documents/keebs/pcb_design/redox-keyboard/redox/pcb/rev1.0/kicad_files/redox_rev1-cache.lib)(options "")(descr ""))
-)

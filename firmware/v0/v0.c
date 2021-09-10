@@ -14,14 +14,4 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#pragma once
-
-#ifdef KEYBOARD_bourbondox_v0
-    #include "v0.h"
-#endif
-
-#ifdef KEYBOARD_bourbondox_v1
-    #include "v1.h"
-#endif
-
-#include "quantum.h"
+#include "bourbondox.h"

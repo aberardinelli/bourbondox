@@ -6,9 +6,15 @@
 
 `pcb_rev3` folder contains the KiCAD pcb files for v0.3 (received 2021-07-19)
 
-`pcb_rev4` folder contains the KiCAD pcb files for v0.4 (edits still in progress, started 2021-07-25)
+`pcb_rev4` folder contains the KiCAD pcb files for v0.4 (received 2021-07-29)
+
+`pcb_rev5_multilayout` folder contains the KiCAD pcb files for v1.0 (received 2021-08-13)
 
 `firmware` folder contains the qmk firmware files
+
+`case` folder contains the FreeCAD and dxf files for a stacked acrylic case that aligns with the v1.0 pcb (finished 2021-09-10)
+
+There is also a json file (`keyboard-layout_rev1.0.json`) which could be used on keyboard-layout-editor.com
 
 ## Changelog and documentation of issues
 
@@ -46,6 +52,18 @@
 * Thumb cluster on right side was not great for my use case; rotated the keys on that side. 
 * Increased the spacebar size on left side to 2u for more likely compatibility with keycap kits.
 
+## v1.0 photos
+
+*Initial build of v1.0 with cheap tenting provided by acrylic photo frames*
+![Initial v1.0 build](images/v5_built.jpg)
+
+*v1.0 with better tenting provided by magnetic cell phone holders*
+![v1.0 build with better tenting](images/v5_alt_tenting.jpg)
+
+## v0.4 photo
+
+*First fully functional build!*
+![Initial v0.4 build](images/v4_built.jpg)
 
 ## v0.3 photos
 
