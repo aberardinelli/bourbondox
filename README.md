@@ -1,18 +1,18 @@
 # bourbondox
 
-`pcb_rev1` folder contains the KiCAD pcb files for v0.1 (received 2021-07-02)
+`pcb/rev1` folder contains the KiCAD pcb files for v0.1 (received 2021-07-02)
 
-`pcb_rev2` folder contains the KiCAD pcb files for v0.2 (received 2021-07-06)
+`pcb/rev2` folder contains the KiCAD pcb files for v0.2 (received 2021-07-06)
 
-`pcb_rev3` folder contains the KiCAD pcb files for v0.3 (received 2021-07-19)
+`pcb/rev3` folder contains the KiCAD pcb files for v0.3 (received 2021-07-19)
 
-`pcb_rev4` folder contains the KiCAD pcb files for v0.4 (received 2021-07-29)
+`pcb/rev4` folder contains the KiCAD pcb files for v0.4 (received 2021-07-29)
 
-`pcb_rev5_multilayout` folder contains the KiCAD pcb files for v1.0 (received 2021-08-13)
+`pcb/rev5` folder contains the KiCAD pcb files for v1.0 (received 2021-08-13)
 
 `firmware` folder contains the qmk firmware files
 
-`case` folder contains the FreeCAD and dxf files for a stacked acrylic case that aligns with the v1.0 pcb (finished 2021-09-10)
+`case/v1` folder contains the FreeCAD and dxf files for a stacked acrylic case that aligns with the v1.0 pcb (finished 2021-09-10)
 
 There is also a json file (`keyboard-layout_rev1.0.json`) which could be used on keyboard-layout-editor.com
 
